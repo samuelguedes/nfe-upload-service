@@ -1,0 +1,4 @@
+br/gov/ProcessadorArquivosNFeAPI.class
+br/gov/resources/ArquivoResource.class
+br/gov/services/ArquivoService.class
+br/gov/ProcessadorArquivosNFeApplication.class
