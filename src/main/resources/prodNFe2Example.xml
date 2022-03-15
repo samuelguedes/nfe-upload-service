@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<notaFiscal>
+      <chave>35180706225746000422550010000106141999893878</chave>
+      <dataHoraRegistro>1647204068687</dataHoraRegistro>
+      <descricaoStatus>Em processamento</descricaoStatus>
+      <nomeArquivo>procNFe2.xml</nomeArquivo>
+      <nomeDestinatario>FELIPE SANTOS</nomeDestinatario>
+      <nomeEmitente>JS COMERCIAL E DISTRIBUIDORA BEBIDAS LTDA.</nomeEmitente>
+      <valor>15258.0</valor>
+      <duplicatas>
+         <duplicata>
+            <dataVencimento>1647205884854</dataVencimento>
+            <numeroParcela>1</numeroParcela>
+            <valorParcela>15258.0</valorParcela>
+         </duplicata>
+      </duplicatas>
+</notaFiscal>

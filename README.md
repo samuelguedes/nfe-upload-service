@@ -14,7 +14,14 @@ Use o seguinte comando para iniciar o servidor:<br/>
 ```shell script
 ./mvnw clean compile quarkus:dev
 ```
+## Criar diretório input no caminho:
 
+Ex: "/home/user/arquivos/input"
+
+## Configurar no application.properties as variáveis abaixo e atribuir para uploads-directory o diretório de input criado acima que será utilizado 
+## tanto para entrada dos arquivos de upload quanto para o processamento dos arquivos.
+
+quarkus.http.body.uploads-directory=/home/user/arquivos/input
 
 #### Alguns guias relacionados:
 - Maven ([guia](https://maven.apache.org/what-is-maven.html))
